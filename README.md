@@ -2,12 +2,12 @@
 
 This code is linked to the article : *doi will be put here*
 
-Code created to optimize a life cycle assessment product system for environmental impacts when several processes can provide the same function. 
+Code created to optimize a life cycle assessment product system to minimize environmental impacts when several processes can provide the same function. 
 The optimization tool takes the useful files in the folder "source_files", stores temporary useful files in the folder "working_files" and stores results in the folder "results".
 
 ## Tool
 
-functions.py : contains all the functions
+functions.py : contains all the functions used in the mqin code
 
 single_objective_optimization_(SOO).ipynb allows to optimize one product system for one environmental impact
 

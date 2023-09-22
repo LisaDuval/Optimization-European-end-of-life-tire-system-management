@@ -1,6 +1,7 @@
 # Optimization of the European end-of-life tire management system
 
 This code is linked to the article : *doi will be put here*
+Licence : CC BY-NC 4.0
 
 Code created to optimize a life cycle assessment product system to minimize environmental impacts when several processes can provide the same function. 
 The optimization tool takes the useful files in the folder "source_files", stores temporary useful files in the folder "working_files" and stores results in the folder "results".
